@@ -219,7 +219,7 @@ BVN has their standard list of subcategories that families should use - this ens
 <div>
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: left;">
       <th></th>
       <th>FamilyFilePath</th>
       <th>FamilyName</th>
@@ -290,7 +290,7 @@ There is total of 642 subcategories across the master content that are not part 
 <div>
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: left;">
       <th></th>
       <th>FamilyFilePath</th>
       <th>FamilyName</th>

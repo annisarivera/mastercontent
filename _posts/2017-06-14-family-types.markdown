@@ -53,7 +53,7 @@ This part is a sample list that refers to family types from a .txt catalogue fil
 <div>
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: left;">
       <th></th>
       <th>FamilyFilePath</th>
       <th>FamilyName</th>
@@ -109,7 +109,7 @@ This part is a sample list that refers to family types within the native revit f
 <div>
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: left;">
       <th></th>
       <th>FamilyFilePath</th>
       <th>FamilyName</th>
@@ -208,12 +208,8 @@ This part is a sample list that refers to family types within the native revit f
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
-      <th></th>
-      <th>FamilyTypeName</th>
-    </tr>
-    <tr>
       <th>FamilyName</th>
-      <th></th>
+      <th>Count</th>
     </tr>
   </thead>
   <tbody style="text-align: left;">
@@ -252,12 +248,8 @@ This part is a sample list that refers to family types within the native revit f
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
-      <th></th>
-      <th>FamilyTypeName</th>
-    </tr>
-    <tr>
       <th>FamilyName</th>
-      <th></th>
+      <th>Count</th>
     </tr>
   </thead>
   <tbody style="text-align: left;">

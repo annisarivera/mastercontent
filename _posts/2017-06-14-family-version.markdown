@@ -18,14 +18,14 @@ At what version should all our families be? Or how do we manage version control?
 <div>
 <table border="" class="dataframe">
   <thead>
-    <tr style="text-align: middle;">
+    <tr style="text-align: left;">
       <tr>
       <th>Version</th>
       <th>Count</th>
       </tr>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="text-align: left;">
     <tr>
       <th>2010</th>
       <td>3</td>

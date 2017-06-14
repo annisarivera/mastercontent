@@ -63,7 +63,7 @@ Upon closer inspection, there were many families using both metric and imperial 
 <div>
 <table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: left;">
       <th></th>
       <th>Angle_unit_type</th>
       <th>Area_unit_type</th>

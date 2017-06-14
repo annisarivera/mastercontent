@@ -12,13 +12,13 @@ assetfolder: familycategories
 
 The image below represents the number of families there are there are in a category.
 
-![png]({{site.baseurl}}/assets/{{post.assetfolder}}/allCategories.png)
+![png]({{site.baseurl}}/assets/{{page.assetfolder}}/allCategories.png)
 
 ### No. of families in each folder (With a high count)
 
 This shows the categories that have a more than 15 families in them. Detail items account for 1/5 of the master content - containing just over 1000 families. Then it drops dramatically to just over 400 within the Plumbing fixture category.
 
-![png]({{site.baseurl}}/assets/{{post.assetfolder}}/worstOff.png)
+![png]({{site.baseurl}}/assets/{{page.assetfolder}}/worstOff.png)
 
 ### No. of families in a Category (Worst Offenders)
 
