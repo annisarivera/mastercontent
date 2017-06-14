@@ -6,7 +6,7 @@ categories: jekyll update
 assetfolder: familyfolders
 ---
 
-[Link to the code][familyFolderCode]
+### [Link to the code][familyFolderCode]
 
 ### Number of families in each folder
 

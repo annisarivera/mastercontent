@@ -6,15 +6,15 @@ categories: jekyll update
 assetfolder: familycategories
 ---
 
-[Link to the code][familyCategoryCode] 
+### [Link to the code][familyCategoryCode] 
 
-### No. of families in each folder
+### Number of families a revit category
 
-The image below represents the number of families there are contained within each folder in our mastercontent library. 
+The image below represents the number of families there are there are in a category.
 
 ![png]({{site.baseurl}}/assets/{{post.assetfolder}}/allCategories.png)
 
-### No. of families in each folder (Closer look)
+### No. of families in each folder (With a high count)
 
 This shows the categories that have a more than 15 families in them. Detail items account for 1/5 of the master content - containing just over 1000 families. Then it drops dramatically to just over 400 within the Plumbing fixture category.
 
@@ -71,4 +71,4 @@ The table below shows the categories that have 2 or less families.
     Terminations                            1
     Span Direction Symbol                   1
 
-[familyCategoryCode]: https://github.com/annisarivera/mastercontent/blob/master/working/Master%20Content.ipynb
+[familyCategoryCode]: https://github.com/annisarivera/mastercontent/blob/master/working/Master%20Content%20-%20FamilyCategory.ipynb
