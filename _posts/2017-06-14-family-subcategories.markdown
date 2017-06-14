@@ -124,7 +124,7 @@ This is a histogram showing the number of subcategories families are using acros
     z2D                                      1
     HIDDEN                                   1
 
-### Sample list of families that use a number of subcategories
+### Sample list of families that use a high number of subcategories
 
  <div>
 <table border="1" class="dataframe">
