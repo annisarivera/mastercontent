@@ -1,0 +1,15 @@
+
+strict digraph G {
+graph [ splines = false ]
+rankdir=LR
+"P:-0" -> "_15-1" -> "s1501001.rog-2" -> "BIM-3" -> "_2.0 Project_Revit Library-4" -> "Annotation-5" -> "BVN Model Revision Note.rfa-6"
+"P:-0" -> "_16-1" -> "s1602003.hom-2" -> "BIM-3" -> "_2.0 Project_Revit Library-4" -> "Furniture-5" -> "Queen Bed1.rfa-6"
+"P:-0" -> "_16-1" -> "s1602003.hom-2" -> "BIM-3" -> "_2.0 Project_Revit Library-4" -> "Casework-5" -> "Wardrobe.rfa-6"
+"P:-0" -> "_16-1" -> "s1602003.hom-2" -> "BIM-3" -> "_2.0 Project_Revit Library-4" -> "Plumbing Fixtures-5" -> "WC_Caroma_PLM_Metro_InvisiII_WallHung_Suite.rfa-6"
+"P:-0" -> "_16-1" -> "s1602003.hom-2" -> "BIM-3" -> "_2.0 Project_Revit Library-4" -> "Plumbing Fixtures-5" -> "Shower.rfa-6"
+"P:-0" -> "_16-1" -> "s1602003.hom-2" -> "BIM-3" -> "_2.0 Project_Revit Library-4" -> "Casework-5" -> "Cube_Generic_CAS1.rfa-6"
+"P:-0" -> "_16-1" -> "s1602003.hom-2" -> "BIM-3" -> "_2.0 Project_Revit Library-4" -> "Plumbing Fixtures-5" -> "Basin.rfa-6"
+"P:-0" -> "_15-1" -> "_1507520.000-2" -> "Design-3" -> "BIM-4" -> "_Revit-5" -> "_2.0 Project Library-6" -> "FURNITURE-7" -> "Table_Round_CafeCulture_Croissant_FUR.rfa-8"
+"P:-0" -> "_16-1" -> "s1602003.hom-2" -> "BIM-3" -> "_2.0 Project_Revit Library-4" -> "Furniture-5" -> "Chair_Generic.rfa-6"
+"M:-0" -> "_14-1" -> "s1410515.ode-2" -> "BIM-3" -> "_2.0 Project_Revit Library-4" -> "Plumbing Fixtures-5" -> "_115_Sink_Double_Type 1.rfa-6"
+}
