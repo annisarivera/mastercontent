@@ -3,7 +3,7 @@ layout: post
 title:  Shared Parameters
 date:   2017-06-14 12:10:13 +1000
 categories: jekyll update
-assetfolder: familyversion
+assetfolder: familyparameters
 # ![png](output_17_0.png)
 #to
 #![png]({{site.baseurl}}/assets/{{page.assetfolder}}/output_17_0.png)
@@ -26,10 +26,7 @@ There is a total of **427 shared parameters** in this list.
     <tr>
       <th></th>
       <th>BVNSPNAME</th>
-    </tr>
-    <tr>
       <th></th>
-      <th>count</th>
     </tr>
     <tr>
       <th>BVNSPGROUP</th>
