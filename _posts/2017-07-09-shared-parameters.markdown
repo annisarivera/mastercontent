@@ -25,8 +25,6 @@ There is a total of **427 shared parameters** in this list.
   <thead>
     <tr style="text-align: left;">
       <th>BVNSPNAME</th>
-    </tr>
-    <tr>
       <th>BVNSPGROUP</th>
     </tr>
   </thead>
