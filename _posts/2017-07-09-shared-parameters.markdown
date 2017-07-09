@@ -23,17 +23,14 @@ There is a total of **427 shared parameters** in this list.
 <div>
 <table border="1" class="dataframe">
   <thead>
-    <tr>
-      <th></th>
+    <tr style="text-align: left;">
       <th>BVNSPNAME</th>
-      <th></th>
     </tr>
     <tr>
       <th>BVNSPGROUP</th>
-      <th></th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="text-align: left;">
     <tr>
       <th>01_Annotations</th>
       <td>13</td>
