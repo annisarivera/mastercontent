@@ -24,8 +24,8 @@ There is a total of **427 shared parameters** in this list.
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
-      <th>BVNSPNAME</th>
-      <th>BVNSPGROUP</th>
+      <th>parameter group</th>
+      <th>count of params</th>
     </tr>
   </thead>
   <tbody style="text-align: left;">
