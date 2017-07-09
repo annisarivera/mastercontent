@@ -147,6 +147,8 @@ There is a total of **427 shared parameters** in this list.
 </table>
 </div>
 
+<br />
+
 This list has been accumulated and built up over the last few years, though with little organisation and care. Things that contribute to the bad organisation of the list:
 
 - Spelling mistakes
